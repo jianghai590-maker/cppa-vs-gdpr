@@ -4,6 +4,10 @@ A working paper comparing consent mechanisms across Canadian and EU privacy regi
 
 ---
 
+## 📄 Read the paper
+
+**[CPPA for the Platform Era: Enforcement, Algorithms, and the Future of Data](./CPPA-for-the-Platform-Era.md)**
+
 ## 🎯 Objective
 
 Compare how Canada's CPPA (Consumer Privacy Protection Act) and the EU's GDPR handle **lawful basis**, **proportionality**, and **consent** — then translate the legal comparison into practical guidance for interface designers.
